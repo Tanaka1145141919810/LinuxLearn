@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/looksaw/looksawCode/LinuxLearn/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/LinuxLearn.dir/src/myshell1.c.o -c /home/looksaw/looksawCode/LinuxLearn/src/myshell1.c",
+  "file": "/home/looksaw/looksawCode/LinuxLearn/src/myshell1.c",
+  "output": "CMakeFiles/LinuxLearn.dir/src/myshell1.c.o"
+}
+]

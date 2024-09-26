@@ -1,0 +1,1 @@
+/usr/bin/gcc -g CMakeFiles/LinuxLearn.dir/src/myshell1.c.o -o LinuxLearn

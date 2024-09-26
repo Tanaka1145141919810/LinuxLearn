@@ -1,0 +1,3 @@
+/home/looksaw/looksawCode/LinuxLearn/build/CMakeFiles/LinuxLearn.dir
+/home/looksaw/looksawCode/LinuxLearn/build/CMakeFiles/edit_cache.dir
+/home/looksaw/looksawCode/LinuxLearn/build/CMakeFiles/rebuild_cache.dir
