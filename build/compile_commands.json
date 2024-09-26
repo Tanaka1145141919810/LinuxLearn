@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/looksaw/looksawCode/LinuxLearn/build",
-  "command": "/usr/bin/gcc-13   -g -o CMakeFiles/LinuxLearn.dir/src/atexit_test.c.o -c /home/looksaw/looksawCode/LinuxLearn/src/atexit_test.c",
-  "file": "/home/looksaw/looksawCode/LinuxLearn/src/atexit_test.c",
-  "output": "CMakeFiles/LinuxLearn.dir/src/atexit_test.c.o"
-}
-]
