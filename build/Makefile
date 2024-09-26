@@ -129,29 +129,29 @@ LinuxLearn/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LinuxLearn.dir/build.make CMakeFiles/LinuxLearn.dir/build
 .PHONY : LinuxLearn/fast
 
-src/myshell1.o: src/myshell1.c.o
-.PHONY : src/myshell1.o
+src/atexit_test.o: src/atexit_test.c.o
+.PHONY : src/atexit_test.o
 
 # target to build an object file
-src/myshell1.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LinuxLearn.dir/build.make CMakeFiles/LinuxLearn.dir/src/myshell1.c.o
-.PHONY : src/myshell1.c.o
+src/atexit_test.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LinuxLearn.dir/build.make CMakeFiles/LinuxLearn.dir/src/atexit_test.c.o
+.PHONY : src/atexit_test.c.o
 
-src/myshell1.i: src/myshell1.c.i
-.PHONY : src/myshell1.i
+src/atexit_test.i: src/atexit_test.c.i
+.PHONY : src/atexit_test.i
 
 # target to preprocess a source file
-src/myshell1.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LinuxLearn.dir/build.make CMakeFiles/LinuxLearn.dir/src/myshell1.c.i
-.PHONY : src/myshell1.c.i
+src/atexit_test.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LinuxLearn.dir/build.make CMakeFiles/LinuxLearn.dir/src/atexit_test.c.i
+.PHONY : src/atexit_test.c.i
 
-src/myshell1.s: src/myshell1.c.s
-.PHONY : src/myshell1.s
+src/atexit_test.s: src/atexit_test.c.s
+.PHONY : src/atexit_test.s
 
 # target to generate assembly for a file
-src/myshell1.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LinuxLearn.dir/build.make CMakeFiles/LinuxLearn.dir/src/myshell1.c.s
-.PHONY : src/myshell1.c.s
+src/atexit_test.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LinuxLearn.dir/build.make CMakeFiles/LinuxLearn.dir/src/atexit_test.c.s
+.PHONY : src/atexit_test.c.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LinuxLearn"
-	@echo "... src/myshell1.o"
-	@echo "... src/myshell1.i"
-	@echo "... src/myshell1.s"
+	@echo "... src/atexit_test.o"
+	@echo "... src/atexit_test.i"
+	@echo "... src/atexit_test.s"
 .PHONY : help
 
 

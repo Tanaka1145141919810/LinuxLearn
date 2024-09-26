@@ -1,1 +1,1 @@
-/usr/bin/gcc -g CMakeFiles/LinuxLearn.dir/src/myshell1.c.o -o LinuxLearn
+/usr/bin/gcc-13 -g CMakeFiles/LinuxLearn.dir/src/atexit_test.c.o -o LinuxLearn

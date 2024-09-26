@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/looksaw/looksawCode/LinuxLearn/src/myshell1.c" "CMakeFiles/LinuxLearn.dir/src/myshell1.c.o" "gcc" "CMakeFiles/LinuxLearn.dir/src/myshell1.c.o.d"
+  "/home/looksaw/looksawCode/LinuxLearn/src/atexit_test.c" "CMakeFiles/LinuxLearn.dir/src/atexit_test.c.o" "gcc" "CMakeFiles/LinuxLearn.dir/src/atexit_test.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

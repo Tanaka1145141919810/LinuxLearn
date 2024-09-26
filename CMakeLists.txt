@@ -6,4 +6,7 @@ project(LinuxLearn C )
 
 
 ## 添加可执行文件
-add_executable(LinuxLearn src/fileSystem1.c)
+##add_executable(LinuxLearn src/fileSystem1.c)
+##add_executable(LinuxLearn src/getpid.c)
+##add_executable(LinuxLearn src/myshell1.c)
+add_executable(LinuxLearn src/atexit_test.c)
