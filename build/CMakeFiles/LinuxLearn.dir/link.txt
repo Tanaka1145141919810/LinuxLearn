@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/LinuxLearn.dir/src/pthread2.c.o -o LinuxLearn
