@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/home/looksaw/looksawCode/LinuxLearn/src/pthread2.c" "CMakeFiles/LinuxLearn.dir/src/pthread2.c.o" "gcc" "CMakeFiles/LinuxLearn.dir/src/pthread2.c.o.d"
+  "/home/looksaw/looksawCode/LinuxLearn/src/pthread_trouble1.c" "CMakeFiles/LinuxLearn.dir/src/pthread_trouble1.c.o" "gcc" "CMakeFiles/LinuxLearn.dir/src/pthread_trouble1.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

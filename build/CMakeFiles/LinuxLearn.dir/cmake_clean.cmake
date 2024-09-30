@@ -1,6 +1,6 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/LinuxLearn.dir/src/pthread2.c.o"
-  "CMakeFiles/LinuxLearn.dir/src/pthread2.c.o.d"
+  "CMakeFiles/LinuxLearn.dir/src/pthread_trouble1.c.o"
+  "CMakeFiles/LinuxLearn.dir/src/pthread_trouble1.c.o.d"
   "LinuxLearn"
   "LinuxLearn.pdb"
 )

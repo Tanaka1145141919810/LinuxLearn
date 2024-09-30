@@ -129,29 +129,29 @@ LinuxLearn/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LinuxLearn.dir/build.make CMakeFiles/LinuxLearn.dir/build
 .PHONY : LinuxLearn/fast
 
-src/pthread2.o: src/pthread2.c.o
-.PHONY : src/pthread2.o
+src/pthread_trouble1.o: src/pthread_trouble1.c.o
+.PHONY : src/pthread_trouble1.o
 
 # target to build an object file
-src/pthread2.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LinuxLearn.dir/build.make CMakeFiles/LinuxLearn.dir/src/pthread2.c.o
-.PHONY : src/pthread2.c.o
+src/pthread_trouble1.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LinuxLearn.dir/build.make CMakeFiles/LinuxLearn.dir/src/pthread_trouble1.c.o
+.PHONY : src/pthread_trouble1.c.o
 
-src/pthread2.i: src/pthread2.c.i
-.PHONY : src/pthread2.i
+src/pthread_trouble1.i: src/pthread_trouble1.c.i
+.PHONY : src/pthread_trouble1.i
 
 # target to preprocess a source file
-src/pthread2.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LinuxLearn.dir/build.make CMakeFiles/LinuxLearn.dir/src/pthread2.c.i
-.PHONY : src/pthread2.c.i
+src/pthread_trouble1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LinuxLearn.dir/build.make CMakeFiles/LinuxLearn.dir/src/pthread_trouble1.c.i
+.PHONY : src/pthread_trouble1.c.i
 
-src/pthread2.s: src/pthread2.c.s
-.PHONY : src/pthread2.s
+src/pthread_trouble1.s: src/pthread_trouble1.c.s
+.PHONY : src/pthread_trouble1.s
 
 # target to generate assembly for a file
-src/pthread2.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LinuxLearn.dir/build.make CMakeFiles/LinuxLearn.dir/src/pthread2.c.s
-.PHONY : src/pthread2.c.s
+src/pthread_trouble1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LinuxLearn.dir/build.make CMakeFiles/LinuxLearn.dir/src/pthread_trouble1.c.s
+.PHONY : src/pthread_trouble1.c.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LinuxLearn"
-	@echo "... src/pthread2.o"
-	@echo "... src/pthread2.i"
-	@echo "... src/pthread2.s"
+	@echo "... src/pthread_trouble1.o"
+	@echo "... src/pthread_trouble1.i"
+	@echo "... src/pthread_trouble1.s"
 .PHONY : help
 
 
