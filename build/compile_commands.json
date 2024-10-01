@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/looksaw/looksawCode/LinuxLearn/build",
+  "command": "/usr/bin/gcc-13 -g -o CMakeFiles/LinuxLearn.dir/src/pthread_mutex1.c.o -c /home/looksaw/looksawCode/LinuxLearn/src/pthread_mutex1.c",
+  "file": "/home/looksaw/looksawCode/LinuxLearn/src/pthread_mutex1.c",
+  "output": "CMakeFiles/LinuxLearn.dir/src/pthread_mutex1.c.o"
+}
+]

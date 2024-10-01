@@ -129,29 +129,29 @@ LinuxLearn/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/LinuxLearn.dir/build.make CMakeFiles/LinuxLearn.dir/build
 .PHONY : LinuxLearn/fast
 
-src/pthread_trouble1.o: src/pthread_trouble1.c.o
-.PHONY : src/pthread_trouble1.o
+src/pthread_mutex1.o: src/pthread_mutex1.c.o
+.PHONY : src/pthread_mutex1.o
 
 # target to build an object file
-src/pthread_trouble1.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LinuxLearn.dir/build.make CMakeFiles/LinuxLearn.dir/src/pthread_trouble1.c.o
-.PHONY : src/pthread_trouble1.c.o
+src/pthread_mutex1.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LinuxLearn.dir/build.make CMakeFiles/LinuxLearn.dir/src/pthread_mutex1.c.o
+.PHONY : src/pthread_mutex1.c.o
 
-src/pthread_trouble1.i: src/pthread_trouble1.c.i
-.PHONY : src/pthread_trouble1.i
+src/pthread_mutex1.i: src/pthread_mutex1.c.i
+.PHONY : src/pthread_mutex1.i
 
 # target to preprocess a source file
-src/pthread_trouble1.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LinuxLearn.dir/build.make CMakeFiles/LinuxLearn.dir/src/pthread_trouble1.c.i
-.PHONY : src/pthread_trouble1.c.i
+src/pthread_mutex1.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LinuxLearn.dir/build.make CMakeFiles/LinuxLearn.dir/src/pthread_mutex1.c.i
+.PHONY : src/pthread_mutex1.c.i
 
-src/pthread_trouble1.s: src/pthread_trouble1.c.s
-.PHONY : src/pthread_trouble1.s
+src/pthread_mutex1.s: src/pthread_mutex1.c.s
+.PHONY : src/pthread_mutex1.s
 
 # target to generate assembly for a file
-src/pthread_trouble1.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/LinuxLearn.dir/build.make CMakeFiles/LinuxLearn.dir/src/pthread_trouble1.c.s
-.PHONY : src/pthread_trouble1.c.s
+src/pthread_mutex1.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/LinuxLearn.dir/build.make CMakeFiles/LinuxLearn.dir/src/pthread_mutex1.c.s
+.PHONY : src/pthread_mutex1.c.s
 
 # Help Target
 help:
@@ -162,9 +162,9 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... LinuxLearn"
-	@echo "... src/pthread_trouble1.o"
-	@echo "... src/pthread_trouble1.i"
-	@echo "... src/pthread_trouble1.s"
+	@echo "... src/pthread_mutex1.o"
+	@echo "... src/pthread_mutex1.i"
+	@echo "... src/pthread_mutex1.s"
 .PHONY : help
 
 
